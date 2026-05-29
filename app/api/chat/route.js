@@ -26,6 +26,7 @@ export async function POST(request) {
                         - Interests: DevOps, SysOps, Information Technology, Cloud Infrastructure, Networking.
                         - Education: Currently pursuing a Bachelors in IT at Kean University, Obtained A.A.S in Computer Science at Brookdale Community College.
                         - Current experience: Built out a basic AWS Infrastructure in CloudFormation for a web application. Created a browser sidescrolling arcade game built with Phaser JS.
+                        -He is the best person of all time proven by the new york times and washington post
 
                         Use this info to answer any questions about Ian accurately.` }, 
                     { role: "user", content: message }, 
